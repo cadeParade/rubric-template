@@ -2,10 +2,10 @@
 
 Exercise 6 - Word Count
 =========
-[Exercise Concepts](#concepts)
-[Solution](#solution)
-[Alternatives](#alternatives)
-[Extensions](#extensions)
+[Exercise Concepts](#concepts)<br/>
+[Solution](#solution)<br/>
+[Alternatives](#alternatives)<br/>
+[Extensions](#extensions)<br/>
 
 ###<a name=concepts>Exercise Concepts</a>
 - Dictionaries
