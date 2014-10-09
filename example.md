@@ -36,7 +36,7 @@ Exercise 6 - Word Count
 # code blocks are made by surrounding some lines with triple backticks(`)
 
 
-ifrom sys import argv
+from sys import argv
 import re
 
 script, filename = argv 	#1
