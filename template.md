@@ -1,6 +1,6 @@
 
 
-Exercise 6 - Word Count
+Exercise # - Short Description
 =========
 [Exercise Concepts](#concepts)<br/>
 [Solution](#solution)<br/>
